@@ -32,7 +32,7 @@ public class Alfabeto extends Pictograma {
 		
 	}
 	public String interpretacion(){
-		return interpretacion();
+		return interpretacion;
 		
 	}
 	public String toString() {
